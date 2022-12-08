@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2>
-    <a href="https://github.com/AygunHajiyeva/HooBank/new/main?readme=1">
+    <a href="https://stupendous-granita-99712b.netlify.app/">
       >>> Demo <<<
     </a>
   </h2>
